@@ -1,4 +1,4 @@
-megatough.github.com
+MEGATOUGH
 ====================
 
 MegaTough.com
