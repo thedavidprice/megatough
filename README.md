@@ -1,4 +1,0 @@
-MEGATOUGH
-====================
-
-MegaTough.com
